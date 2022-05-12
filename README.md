@@ -1,6 +1,4 @@
-# css-animation
-
-## Estudos animaçõeas em CSS3
+# Estudos animações em CSS3
 <p>Esse estudo foi realizado durante um bootcamp, focando em animação utilizando css puro.</p>
 <p>No final exemplifiquei alguns dos recursos estudados em uma Landing Page fictícia para demonstrar o conhecimento absorvido.</p>
 
